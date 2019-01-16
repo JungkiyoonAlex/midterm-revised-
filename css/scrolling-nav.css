@@ -1,0 +1,54 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+/*201810698 Jeong Ki-yoon(Alex)
+UI_UX class, Bootstrap sample file1, CSS file*/
+
+
+
+body{
+  background-color:rgb(255, 215, 128);
+  color:rgb(0, 0, 0);
+  font-family: 'Roboto Condensed',sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+font-family: 'Staatliches', cursive;
+/*font-style:italic;*/
+}
+
+
+/*Adding my own header color styles.*/
+
+.headerStyle{
+  color:rgb(252, 194, 106);
+  background-color:#071420;
+}
+
+.headerStyle:hover{
+color:rgb(255, 222, 151);
+background-color: #ffffff;
+}
+
+
+.tallCol
+
+{
+
+ padding: 200px 0;   text-align: center;
+ background: rgb(34,193,195);
+ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
